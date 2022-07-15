@@ -1,0 +1,6 @@
+CommandTest.java
+ CommandTest
+io/lord/world/WorldTest.java
+ io.lord.world.WorldTest
+io/lord/world/items/ItemTest.java
+ io.lord.world.items.ItemTest
